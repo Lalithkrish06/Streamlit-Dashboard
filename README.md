@@ -30,7 +30,5 @@ An interactive web app to **analyze student performance** by inputting marks, ca
 
 ---
 
-## ⚡ Installation
-1. Clone the repository:  
-   ```bash
-   git clone <your-repo-link>
+
+
