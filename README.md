@@ -30,5 +30,25 @@ An interactive web app to **analyze student performance** by inputting marks, ca
 
 ---
 
+## 📊 Dashboard Preview
+
+Below is the live interface of the **Student Performance Analyzer** dashboard.
+
+## 📊 Dashboard Preview
+
+Below is the live interface of the **Student Performance Analyzer** dashboard.
+
+<img width="1832" height="913" alt="Screenshot 2026-02-22 145934" src="https://github.com/user-attachments/assets/85a341a4-733e-413a-8bd0-84909b3591ff" />
+
+<img width="1800" height="754" alt="Screenshot 2026-02-22 150005" src="https://github.com/user-attachments/assets/fcce23d9-0e83-4098-b9e9-3824187e1d43" />
+
+<img width="1740" height="686" alt="Screenshot 2026-02-22 150031" src="https://github.com/user-attachments/assets/b024f14f-0d78-4067-8f24-a02e25f0d08b" />
+
+<img width="1797" height="959" alt="Screenshot 2026-02-22 150131" src="https://github.com/user-attachments/assets/52d50f85-67e5-47da-9b8d-fa41109a5ec0" />
+
+
+
+
+
 
 
