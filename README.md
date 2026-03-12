@@ -30,9 +30,6 @@ An interactive web app to **analyze student performance** by inputting marks, ca
 
 ---
 
-## 📊 Dashboard Preview
-
-Below is the live interface of the **Student Performance Analyzer** dashboard.
 
 ## 📊 Dashboard Preview
 
